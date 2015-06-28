@@ -1,3 +1,3 @@
-# railsgirl
-# Hello RailGirlsDaNang
+# railsgirls
+# Hello RailsGirlsDaNang
 # I'm Sarah
